@@ -22,5 +22,6 @@ entry_2.grid(row=1, column=1)
 button_1 = Button(root, text="click", command=function_click)
 button_1.grid(row=2, columnspan=2, column=0)
 
+#closeing main window
 root.mainloop()
-# closing main window
+
