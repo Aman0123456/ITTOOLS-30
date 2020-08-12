@@ -1,4 +1,4 @@
-# ITTOOLS-30
+# python cofe-30
 I AM AMAN
-i am an fyit student 
+i am an Syit student 
 my roll no is 30
